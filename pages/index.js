@@ -1,5 +1,13 @@
 function Home() {
-    return <h1>Se cuida, no final sempre dá certo. Conte comigo! 🐒</h1>
+  return <h1>Se cuida, no final sempre dá certo. Conte comigo! 🐒</h1>;
 }
 
-export default Home
+function teste() {
+  console.log("teste");
+}
+
+function teste2() {
+  console.log("identação errada");
+}
+
+export default Home;
